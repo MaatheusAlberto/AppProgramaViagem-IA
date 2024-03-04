@@ -37,8 +37,6 @@ Este aplicativo fornece recursos para o planejamento de viagens, incluindo, mas 
 
 - Criar itinerários de viagem.
 - Adicionar destinos e atividades.
-- Definir lembretes e alertas.
-- Gerenciar despesas e orçamentos.
 
 ## Contribuições
 
